@@ -337,6 +337,9 @@ box-sizing: border-box;
   background-color: #c5debb;
   font-weight: bold;
 }
+.submiter>.sent:hover{
+  background-color: #648C4B;
+}
 form>p{
   font-weight: 600;
   display: inline-block;
