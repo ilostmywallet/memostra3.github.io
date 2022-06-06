@@ -302,6 +302,7 @@ margin-bottom: 20px;
 .massage{
    margin-top: 15px;
     width: 100%;
+    margin-bottom: 15px;
 }
 .message{
   width: 100%;
@@ -351,7 +352,6 @@ input{
   height: 36px;
   font-family: Verdana; 
 }
-
 .phototshirt{
   width: 90%;
   height: 90%;
@@ -776,7 +776,7 @@ form>p{
 .massage{
   margin-top: 5px;
 }
-.message{
+.massage{
   margin-bottom: 10px;
 }
 .submiter>.sent{
